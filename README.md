@@ -9,3 +9,6 @@ This article is interesting to me because it explains the nuances behind deepsee
 
 ## Sophia comments
 I thought the article was very interesting and it did a good job at pointing out the importance of having open source applications and the disadvantages that comes with it. Of course I have heard about Deepseek, but I was never too interested to read into it. Now that I have read this article, I think it is fascinating that there is a starting to be a solution to the amount of energy that AI consumes.
+
+## Shiwen's comments
+DeepSeek is certainly something that the entire industry is closely monitoring right now. It stands out for its **cost efficiency**, **open-source approach**, and **optimized architecture**, making it a compelling choice for developers and researchers alike. Actually, the startup that I am working for is seriously considering switching from Claude to DeepSeek.
